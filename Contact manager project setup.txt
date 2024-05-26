@@ -1,0 +1,42 @@
+======= Project Setup =======
+
+1. create React new Application
+    npx create-react-app contact-manager
+
+2. Bootstrap Intallation by npm
+  npm i bootstrap
+
+3. fomt-awesome installetion
+  npm i @fortawesome/fontawesome-free
+  
+4. Connect font-awesome to html page by cdn
+   Ajax font-awesome link
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  
+5. install axios library
+  npm install axios
+
+6. react router dom
+
+npm install react-router-dom@6
+
+
+
+
+============================ Backend setup =======================================
+
+1.create folder of server
+
+2.install json
+ npm init --yes
+
+3.json server install
+  npm install json-server
+
+4.create json file db.json
+
+5.setting up local server
+
+ "start": "json-server --watch db.json -p 9000"
+

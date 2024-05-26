@@ -1,0 +1,55 @@
+{
+    "contacts":[
+        {
+            "id":"AAA111",
+            "name":"roshan",
+            "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHCZuslFbn42wwA9qw6ywBERhtpr_yOFy3Cw&usqp=CAU",
+            "mobail":"8888656544",
+            "email":"Roshan@gmail.com",
+            "title":"software engineer",
+            "company":"TCS",
+            "group":"1"
+        },
+        {
+            "id":"AAA112",
+            "name":"Ramesh",
+            "photo":"https://img.freepik.com/premium-vector/man-character_665280-46970.jpg?size=626&ext=jpg&ga=GA1.1.1122517429.1684770560&semt=ais",
+            "mobail":"88684864464",
+            "email":"ramesh@gmail.com",
+            "title":"software engineer",
+            "company":"manabh",
+            "group":"1"
+        },
+        {
+            "id":"AAA113",
+            "name":"Nikhil",
+            "photo":"https://img.freepik.com/premium-photo/man-with-glasses-tie-with-tie-it_745528-2818.jpg?size=626&ext=jpg&ga=GA1.2.1122517429.1684770560&semt=ais",
+            "mobail":"974561230",
+            "email":"nikhil@gmail.com",
+            "title":"software engineer",
+            "company":"qspiders",
+            "group":"2"
+        },
+        {
+            "id":"AAA114",
+            "name":"Shubham",
+            "photo":"https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg?size=626&ext=jpg&ga=GA1.1.1122517429.1684770560&semt=ais",
+            "mobail":"9874561230",
+            "email":"shubham@gmail.com",
+            "title":"software Developer",
+            "company":"qspiders",
+            "group":"1"
+        }
+
+    ],
+    "group":[
+        {
+            "id":"1",
+            "name":"Colleague"
+        },
+        {
+            "id":"2",
+            "name":"friends"
+        }
+    ]
+}
